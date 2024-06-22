@@ -1,6 +1,7 @@
 # simple_project
 
-A new Flutter project.
+A "hello" project.
+![Screenshot_1719096523](https://github.com/Leila2003/mobile-ass1-hello-24705/assets/147077979/afe01ef9-702c-4942-829e-86960950d964)
 
 ## Getting Started
 
